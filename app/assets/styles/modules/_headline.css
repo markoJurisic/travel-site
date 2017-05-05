@@ -46,6 +46,6 @@
   }
 
   &--no-top-margin {
-    margin-left: 0;
+    margin-top: 0;
   }
 }
